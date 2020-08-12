@@ -1,0 +1,14 @@
+.single-post-container {
+  min-height: 80px;
+  width: 60%;
+  border: 1px solid teal;
+  margin: 15px 0;
+}
+
+.single-post-container .content {
+  font-size: 18px;
+}
+
+.single-post-container .comments {
+  font-size: 14px;
+}
